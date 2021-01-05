@@ -7,3 +7,5 @@ Different colors and modes can be choosed with a single button.
 long press = mode change [static color, ring animation, stroboscop, rainbow, standby]
 
 short press = color change [white, red, blue, ...]
+
+<img src="LEDRing_Steckplatine.png">
